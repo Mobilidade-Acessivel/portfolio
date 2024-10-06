@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Garante que padding e border sejam incluídos nas larguras */
+  }
+  
+  html, body {
+    height: 100%; /* Define a altura do corpo como 100% da tela */
+  }
+  
+  .contact-container {
+    display: flex; /* Usar flexbox para centralizar o conteúdo */
+    flex-direction: column; /* Colocar os itens em uma coluna */
+    justify-content: center; /* Centraliza verticalmente */
+    align-items: center; /* Centraliza horizontalmente */
+    height: 100vh; /* Altura da página */
+    background: linear-gradient(to bottom, rgba(18, 102, 248, 0.8), rgba(0, 42, 116, 0.8));
+    color: white; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+    padding: 20px; /* Espaçamento interno */
+  }
+  
+  .contact-title {
+    font-size: 3rem; /* Tamanho do título */
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+  }
+  
+  .contact-description {
+    font-size: 1.5rem; /* Tamanho do texto */
+    margin-bottom: 20px; /* Margem abaixo da descrição */
+  }
+  
+  .contact-links {
+    display: flex; /* Para alinhar os links lado a lado */
+    justify-content: center; /* Centraliza os links horizontalmente */
+    gap: 20px; /* Espaçamento entre os links */
+  }
+  
+  .contact-link {
+    background-color: white; /* Cor de fundo do botão */
+    color: black; /* Cor do texto do botão */
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    border-radius: 25px; /* Bordas arredondadas */
+    text-decoration: none; /* Remove o sublinhado do link */
+    transition: transform 0.2s; /* Transição suave para a animação */
+  }
+  
+  .contact-link:hover {
+    transform: scale(0.95); /* Diminui o botão ao passar o mouse */
+  }
+  

@@ -1,0 +1,45 @@
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espaçamento entre os botões */
+    margin-bottom: 20px; /* Espaçamento abaixo da barra de navegação */
+  }
+  
+  .nav-button {
+    font: normal 15pt Arial;
+    background-color: white; /* Cor de fundo do botão */
+    color: black; /* Cor do texto do botão */
+    padding: 12px 25px; /* Espaçamento interno do botão */
+    border: none; /* Remove a borda padrão */
+    border-radius: 25px; /* Bordas mais arredondadas */
+    text-decoration: none; /* Remove o sublinhado do link */
+    font-size: 1rem; /* Tamanho da fonte */
+    transition: 0.2s ease-in-out, background-color 0.3s; /* Efeito de transição */
+  }
+  
+  .nav-button:hover {
+    transform: scale(0.95); /* Diminui o tamanho do botão ao passar o mouse */
+    background-color: #f0f0f0; /* Cor de fundo ao passar o mouse */
+  }
+  
+
+  body {
+    font-family: 'Roboto', sans-serif; /* Define a fonte padrão do corpo */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove preenchimentos padrão */
+    background-color: #f8f8f8; /* Cor de fundo suave, se necessário */
+  }
+  
+  h1, h2, h3, h4, p {
+    margin: 0; /* Remove margens padrão */
+    padding: 10px 0; /* Espaçamento vertical entre os elementos de texto */
+    line-height: 1.5; /* Melhora a legibilidade */
+  }
+  
+  h1 {
+    font-size: 2.5rem; /* Tamanho do título */
+    font-weight: 500; /* Peso da fonte */
+    color: #fff; /* Cor do título */
+  }
+  
+  

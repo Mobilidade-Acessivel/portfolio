@@ -1,0 +1,41 @@
+.projects-container {
+    padding: 20px;
+    background: linear-gradient(to bottom, rgba(18, 102, 248, 0.8), rgba(0, 42, 116, 0.8));
+    color: white; /* Cor do texto */
+  }
+  
+  .projects-title {
+    font-size: 3rem; /* Tamanho do título */
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+    text-align: center; /* Centraliza o título */
+  }
+  
+  .projects-content {
+    display: flex; /* Para alinhar texto e imagem lado a lado */
+    align-items: center; /* Alinha verticalmente */
+    justify-content: center; /* Centraliza horizontalmente */
+    margin-top: 20px; /* Espaçamento acima do conteúdo */
+  }
+  
+  .projects-text {
+    flex: 1; /* Permite que o texto ocupe o espaço disponível */
+    padding: 20px; /* Espaçamento interno */
+  }
+  
+  .projects-description {
+    font-size: 1.25rem; /* Tamanho do texto */
+    line-height: 1.5; /* Altura da linha para melhor legibilidade */
+    margin: 10px 0; /* Margens para espaçamento entre os parágrafos */
+  }
+  
+  .projects-image {
+    flex: 1; /* Permite que a imagem ocupe o espaço disponível */
+    display: flex; /* Para centralizar a imagem */
+    justify-content: center; /* Centraliza horizontalmente */
+  }
+  
+  .gps-print {
+    max-width: 100%; /* Limita a largura máxima da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+  }
+  
