@@ -1,74 +1,34 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Mobilidade Acessível
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao projeto **Mobilidade Acessível**! Este portfólio é dedicado a apresentar as funcionalidades e o propósito do nosso projeto, que visa criar soluções inovadoras para melhorar a mobilidade de todos.
 
-## Available Scripts
+## Sobre o Projeto
 
-In the project directory, you can run:
+A **Mobilidade Acessível** é uma plataforma que permite aos usuários:
 
-### `npm start`
+- Criar suas contas e editar seus perfis.
+- Traçar rotas de forma fácil e intuitiva para o destino desejado.
+- Acessar informações relevantes sobre mobilidade e acessibilidade.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Nosso objetivo é proporcionar uma experiência de navegação simples e eficiente, ajudando as pessoas a se moverem com mais liberdade e segurança.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Funcionalidades
 
-### `npm test`
+- **Criação de Conta**: Registre-se na plataforma e tenha acesso a todas as funcionalidades.
+- **Edição de Perfil**: Atualize suas informações pessoais sempre que necessário.
+- **Traçado de Rotas**: Utilize nossa ferramenta para encontrar o melhor caminho para seu destino.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Acesse Nossa Plataforma
 
-### `npm run build`
+Você pode acessar o site oficial do projeto [aqui](https://6701bbe8aa1f288ab766a17f--mobilidadeacessivel.netlify.app/).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Links de Contato
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Fique à vontade para entrar em contato conosco através das nossas redes sociais:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [GitHub](https://github.com/Mobilidade-Acessivel)
+- [Instagram](https://www.instagram.com/mobilidade.acessivel/)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# portfolio
->>>>>>> f1d7de6621c3b346d029e090dfbf2958aa263bfc
+Agradecemos pelo seu interesse em nosso projeto e esperamos que ele faça a diferença na vida das pessoas!
